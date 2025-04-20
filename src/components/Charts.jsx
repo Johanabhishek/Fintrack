@@ -1,0 +1,1 @@
+export default function Charts() { return <div className='text-white p-10 text-center text-2xl'>Charts coming soon...</div>; }
